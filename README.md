@@ -6,7 +6,7 @@ I'm a coder from the oven 🧁🔥, baking Python scripts and low-level magic wh
 🐍 Python | 📐 Linear Algebra | 💻 Sublime Text 4 |
 🐧 Arch Linux | 🗓 Obsidian | 🤖 Perplexity Labs | 🎮 Godot Engine
 
-Let’s Connect!
+# Let’s Connect!
 
 - 📧 Email: pichenka007gd.mail.ru (никогда не проверяю)
 - ✉️ TG: @pichenka007gd (в сети пока жив)
@@ -29,4 +29,4 @@ Let’s Connect!
   </tr>
 </table>
 
-![neofetch](http://i.ibb.co/pB2FTHc5/2025-08-18-15-31.png)
+[![2025-08-18-15-31.png](https://i.postimg.cc/J4rzvVDs/2025-08-18-15-31.png)](https://postimg.cc/WtyVqy7V)
