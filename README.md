@@ -1,3 +1,18 @@
+## Hi there! 👋
+
+I'm a coder from the oven 🧁🔥, baking Python scripts and low-level magic while arguing with my Arch terminal (yes, it’s still the best OS btw ). I write code for hours - sometimes accidentally summoning waiter-fueled coding marathons. Vectors? Low-Level? UwU
+
+# Tech Stack
+🐍 Python | 📐 Linear Algebra | 💻 Sublime Text 4 |
+🐧 Arch Linux | 🗓 Obsidian | 🤖 Perplexity Labs | 🎮 Godot Engine
+
+Let’s Connect!
+
+- 📧 Email: pichenka007gd.mail.ru (никогда не проверяю)
+- ✉️ TG: @pichenka007gd (в сети пока жив)
+- 💬 DM for collabs, bakery-themed joke(🃏)s, or Arch memes
+- ✨ Fly to the risky pie
+
 <table>
   <tr>
     <td rowspan="2" width="50%">
@@ -13,3 +28,5 @@
     </td>
   </tr>
 </table>
+
+![neofetch](http://i.ibb.co/pB2FTHc5/2025-08-18-15-31.png)
