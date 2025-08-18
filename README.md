@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a coder from the oven 🧁🔥, baking Python scripts and low-level magic while arguing with my Arch terminal (yes, it’s still the best OS btw ). I write code for hours - sometimes accidentally summoning waiter-fueled coding marathons. Vectors? Low-Level? UwU
+I'm a coder from the oven 🧁🔥, baking Python scripts and low-level magic while arguing with my Arch terminal (yes, it’s best OS btw ). I write code for hours - sometimes accidentally summoning waiter-fueled coding marathons. Vectors? Low-Level? UwU
 
 # Tech Stack
 🐍 Python | 📐 Linear Algebra | 💻 Sublime Text 4 |
