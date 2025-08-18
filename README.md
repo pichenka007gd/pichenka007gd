@@ -8,8 +8,8 @@ I'm a coder from the oven 🧁🔥, baking Python scripts and low-level magic wh
 
 # Let’s Connect!
 
-- 📧 Email: pichenka007gd.mail.ru (никогда не проверяю)
-- ✉️ TG: @pichenka007gd (в сети пока жив)
+- 📧 Email: pichenka007gd.mail.ru (never checked)
+- ✉️ TG: @pichenka007gd (in online if alive)
 - 💬 DM for collabs, bakery-themed joke(🃏)s, or Arch memes
 - ✨ Fly to the risky pie
 
