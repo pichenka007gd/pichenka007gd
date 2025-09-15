@@ -4,11 +4,11 @@ I'm a coder from the oven 🧁🔥, baking Python scripts and low-level magic wh
 
 # Tech Stack
 🐍 Python | 📐 Linear Algebra | 💻 Sublime Text 4 |
-🐧 Arch Linux | 🗓 Obsidian | 🤖 Perplexity Labs | 🎮 Godot Engine
+🐧 Arch Linux | 🗓 Obsidian | 🤖 ChatGPT | 🎮 Godot Engine
 
 # Let’s Connect!
 
-- 📧 Email: pichenka007gd.mail.ru (never checked)
+- 📧 Email: pichenka007gd@mail.ru (never checked)
 - ✉️ TG: @pichenka007gd (in online if alive)
 - 💬 DM for collabs, bakery-themed joke(🃏)s, or Arch memes
 - ✨ Fly to the risky pie
