@@ -2,17 +2,17 @@
 
 I'm a coder from the oven 🧁🔥, baking Python scripts and low-level magic while arguing with my Arch terminal (yes, it’s best OS btw ). I write code for hours - sometimes accidentally summoning waiter-fueled coding marathons. Vectors? Low-Level? UwU
 
-I know the math behind LLMs — tensors, gradients, losses, optimization — all the spicy internals. I dive deep into higher math too: series, limits, derivatives, all that calculus sorcery. I just don’t train models (no GPU oven yet 🔥).
+I know the math behind LLMs — tensors, gradients, losses, optimization — all the spicy internals. I dive deep into higher math too: series, limits, derivatives, all that calculus sorcery. I just don’t train models (no GPU oven yet 🔥) (so i target it).
 
 # Tech Stack
-🐍 Python | 📐 Linear Algebra | 💻 Sublime Text 4 |
-🐧 Arch Linux | 🗓 Obsidian | 🤖 ChatGPT | 🎮 Godot Engine
+🐍 Python | ☕ Java | 📐 Linear Algebra | 💻 Sublime Text 4 |
+🐧 Arch Linux | OpenCode | 🤖 DeepSeek | 🎮 Godot Engine
 
 # Let’s Connect!
 
 - 📧 Email: pichenka007gd@mail.ru (never checked)
-- ✉️ TG: @pichenka007gd (in online if alive)
-- 💬 DM for collabs, bakery-themed joke(🃏)s, or Arch memes
+- ✉️ TG: @pichenka007gd (online all-times)
+- 💬 DM for collabs, bakery-themed joke(🃏)s, or Arch/Pretty memes 
 - ✨ Fly to the risky pie
 
 <table>
