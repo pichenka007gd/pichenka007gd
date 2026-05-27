@@ -5,10 +5,11 @@ I'm a coder from the oven 🧁🔥, baking Python scripts and low-level magic wh
 I know the math behind LLMs — tensors, gradients, losses, optimization — all the spicy internals. I dive deep into higher math too: series, limits, derivatives, all that calculus sorcery. I just don’t train models (no GPU oven yet 🔥) (so i target it).
 
 # Tech Stack
-🐍 Python | ☕ Java | 📐 Linear Algebra | 💻 Sublime Text 4 |
-🐧 Arch Linux | 🍥 OpenCode | 🐳 DeepSeek | 🎮 Godot Engine
-
-<img src="https://www.codewars.com/users/pichenka007gd/badges/large" alt="Codewars" width="30%">
+```
+🐍 Python     | ☕ Java     | 📐 Linear Algebra | 💻 Sublime Text 4
+🐧 Arch Linux | 🍥 OpenCode | 🐳 DeepSeek       | 🎮 Godot Engine
+```
+<img src="https://www.codewars.com/users/pichenka007gd/badges/large" alt="Codewars" width="40%">
 
 # Let’s Connect!
 
