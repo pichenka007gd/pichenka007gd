@@ -31,4 +31,10 @@ I know the math behind LLMs — tensors, gradients, losses, optimization — all
   </tr>
 </table>
 
+# Now
+
+[![image.png](https://i.postimg.cc/Y24dFcKr/image.png)](https://postimg.cc/Th6j843F)
+
+# Old
+
 [![2025-08-18-15-31.png](https://i.postimg.cc/J4rzvVDs/2025-08-18-15-31.png)](https://postimg.cc/WtyVqy7V)
