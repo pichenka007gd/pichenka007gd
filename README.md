@@ -15,6 +15,7 @@ I know the math behind LLMs — tensors, gradients, losses, optimization — all
 
 - 📧 Email: pichenka007gd@mail.ru (never checked)
 - ✉️ TG: @pichenka007gd (online all-times)
+- 📙 Boosty: https://boosty.to/pichenka008gd (+1)
 - 💬 DM for collabs, bakery-themed joke(🃏)s, or Arch/Pretty memes 
 - ✨ Fly to the risky pie
 
