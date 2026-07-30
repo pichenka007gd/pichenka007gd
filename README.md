@@ -7,7 +7,7 @@ I know the math behind LLMs — tensors, gradients, losses, optimization — all
 # Tech Stack
 ```
 🐍 Python     | ☕ Java     | 📐 Linear Algebra | 💻 Sublime Text 4
-🐧 Arch Linux | 🍥 OpenCode | 🐳 DeepSeek       | 🎮 Godot Engine
+🐧 Arch Linux | 🍥 OpenCode | 🈷️ Kimi Code      | 🎮 Godot Engine
 ```
 <img src="https://www.codewars.com/users/pichenka007gd/badges/large" alt="Codewars" width="40%">
 
