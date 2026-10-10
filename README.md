@@ -27,15 +27,15 @@
 ## Tech Stack
 
 <p align="center">
-  <a href="https://www.python.org" title="python.org"><img src="assets/badges/python.svg" alt="Python" height="30"></a>
-  <a href="https://www.java.com" title="java.com"><img src="assets/badges/java.svg" alt="Java" height="30"></a>
-  <a href="https://en.wikipedia.org/wiki/Linear_algebra" title="Linear algebra"><img src="assets/badges/linear-algebra.svg" alt="Linear Algebra" height="30"></a>
-  <a href="https://www.sublimetext.com" title="sublimetext.com"><img src="assets/badges/sublime-text-4.svg" alt="Sublime Text 4" height="30"></a>
-  <a href="https://archlinux.org" title="archlinux.org"><img src="assets/badges/arch-linux.svg" alt="Arch Linux" height="30"></a>
-  <a href="https://opencode.ai" title="opencode.ai"><img src="assets/badges/opencode.svg" alt="OpenCode" height="30"></a>
-  <a href="https://dlang.org" title="dlang.org"><img src="assets/badges/dlang.svg" alt="Dlang" height="30"></a>
-  <a href="https://godotengine.org" title="godotengine.org"><img src="assets/badges/godot-engine.svg" alt="Godot Engine" height="30"></a>
-  <a href="https://pytorch.org" title="pytorch.org"><img src="assets/badges/pytorch.svg" alt="PyTorch" height="30"></a>
+  <a href="https://www.python.org" title="python.org"><img src="assets/badges/python.svg" alt="Python" height="50"></a>
+  <a href="https://www.java.com" title="java.com"><img src="assets/badges/java.svg" alt="Java" height="50"></a>
+  <a href="https://en.wikipedia.org/wiki/Linear_algebra" title="Linear algebra"><img src="assets/badges/linear-algebra.svg" alt="Linear Algebra" height="50"></a>
+  <a href="https://www.sublimetext.com" title="sublimetext.com"><img src="assets/badges/sublime-text-4.svg" alt="Sublime Text 4" height="50"></a>
+  <a href="https://archlinux.org" title="archlinux.org"><img src="assets/badges/arch-linux.svg" alt="Arch Linux" height="50"></a>
+  <a href="https://opencode.ai" title="opencode.ai"><img src="assets/badges/opencode.svg" alt="OpenCode" height="50"></a>
+  <a href="https://dlang.org" title="dlang.org"><img src="assets/badges/dlang.svg" alt="Dlang" height="50"></a>
+  <a href="https://godotengine.org" title="godotengine.org"><img src="assets/badges/godot-engine.svg" alt="Godot Engine" height="50"></a>
+  <a href="https://pytorch.org" title="pytorch.org"><img src="assets/badges/pytorch.svg" alt="PyTorch" height="50"></a>
 </p>
 
 ## My Server
