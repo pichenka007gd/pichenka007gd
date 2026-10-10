@@ -26,15 +26,15 @@ I know the math behind LLMs — tensors, gradients, losses, optimization — all
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.techpowerup.com/gpu-specs/tesla-p4.c2879"><img src="assets/tesla-p4.jpg" alt="NVIDIA Tesla P4"></a><br>
+      <a href="https://www.techpowerup.com/gpu-specs/tesla-p4.c2879"><img src="assets/tesla-p4.jpg" alt="NVIDIA Tesla P4" height="270"></a><br>
       <a href="https://www.techpowerup.com/gpu-specs/tesla-p4.c2879" title="Tesla P4 @ TechPowerUp"><img src="assets/badges/gpu-tesla-p4.svg" alt="GPU: Tesla P4 8GB"></a>
     </td>
     <td align="center">
-      <a href="https://www.techpowerup.com/cpu-specs/xeon-e5-2680-v4.c4591"><img src="assets/xeon-e5-2680-v4.jpg" alt="Intel Xeon E5-2680 v4"></a><br>
+      <a href="https://www.techpowerup.com/cpu-specs/xeon-e5-2680-v4.c4591"><img src="assets/xeon-e5-2680-v4.jpg" alt="Intel Xeon E5-2680 v4" height="270"></a><br>
       <a href="https://www.techpowerup.com/cpu-specs/xeon-e5-2680-v4.c4591" title="Xeon E5-2680 v4 @ TechPowerUp"><img src="assets/badges/cpu-xeon.svg" alt="CPU: Xeon E5-2680 v4"></a>
     </td>
     <td align="center">
-      <a href="https://www.techpowerup.com/gpu-specs/radeon-r7-250.c2459"><img src="assets/radeon-r7-250.jpg" alt="AMD Radeon R7 250"></a><br>
+      <a href="https://www.techpowerup.com/gpu-specs/radeon-r7-250.c2459"><img src="assets/radeon-r7-250.jpg" alt="AMD Radeon R7 250" height="270"></a><br>
       <a href="https://www.techpowerup.com/gpu-specs/radeon-r7-250.c2459" title="Radeon R7 250 @ TechPowerUp"><img src="assets/badges/gpu-r7-250.svg" alt="GPU: Radeon R7 250"></a>
     </td>
   </tr>
