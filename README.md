@@ -44,12 +44,12 @@
   <tr>
     <td width="65%"><img src="assets/server-demo.gif" alt="My server demo" width="100%"></td>
     <td width="35%" align="center">
-      <img src="assets/badges/server.svg" alt="Server: X99 · 32GB · 28t" height="16"><br>
-      <a href="https://www.techpowerup.com/cpu-specs/xeon-e5-2680-v4.c4591" title="Xeon E5-2680 v4 @ TechPowerUp"><img src="assets/badges/cpu-xeon.svg" alt="CPU: Xeon E5-2680 v4"></a><br>
-      <a href="https://www.techpowerup.com/gpu-specs/tesla-p4.c2879" title="Tesla P4 @ TechPowerUp"><img src="assets/badges/gpu-tesla-p4.svg" alt="GPU: Tesla P4 8GB"></a><br>
-      <a href="https://www.techpowerup.com/gpu-specs/radeon-r7-250.c2459" title="Radeon R7 250 @ TechPowerUp"><img src="assets/badges/gpu-r7-250.svg" alt="GPU: Radeon R7 250"></a><br>
-      <img src="assets/badges/mb-x99.svg" alt="MB: INTEL X99 V2.0" height="16"><br>
-      <img src="assets/badges/ram.svg" alt="RAM: 4x8GB DDR4-2133 ECC" height="16"><br>
+      <img src="assets/badges/server.svg" alt="Server: X99 · 32GB · 28t" height="20"><br><br>
+      <a href="https://www.techpowerup.com/cpu-specs/xeon-e5-2680-v4.c4591" title="Xeon E5-2680 v4 @ TechPowerUp"><img src="assets/badges/cpu-xeon.svg" alt="CPU: Xeon E5-2680 v4" height="20"></a><br><br>
+      <a href="https://www.techpowerup.com/gpu-specs/tesla-p4.c2879" title="Tesla P4 @ TechPowerUp"><img src="assets/badges/gpu-tesla-p4.svg" alt="GPU: Tesla P4 8GB" height="20"></a><br><br>
+      <a href="https://www.techpowerup.com/gpu-specs/radeon-r7-250.c2459" title="Radeon R7 250 @ TechPowerUp"><img src="assets/badges/gpu-r7-250.svg" alt="GPU: Radeon R7 250"></a><br><br>
+      <img src="assets/badges/mb-x99.svg" alt="MB: INTEL X99 V2.0" height="20"><br><br>
+      <img src="assets/badges/ram.svg" alt="RAM: 4x8GB DDR4-2133 ECC" height="20"><br><br>
     </td>
   </tr>
 </table>
