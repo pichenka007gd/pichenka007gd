@@ -50,7 +50,7 @@
       <a href="https://www.techpowerup.com/gpu-specs/radeon-r7-250.c2459" title="Radeon R7 250 @ TechPowerUp"><img src="assets/badges/gpu-r7-250.svg" alt="GPU: Radeon R7 250"></a><br>
       <img src="assets/badges/mb-x99.svg" alt="MB: INTEL X99 V2.0" height="16"><br>
       <img src="assets/badges/ram.svg" alt="RAM: 4x8GB DDR4-2133 ECC" height="16"><br>
-      <img src="assets/badges/dimm.svg" alt="DIMM: Micron 18ASF1G72PZ-2G1A2" height="16">
+      <img src="assets/ram.jpg" alt="RAM DDR4" width="100%">
     </td>
   </tr>
 </table>
