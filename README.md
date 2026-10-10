@@ -26,26 +26,16 @@
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="25%"><a href="https://www.python.org" title="python.org"><img src="assets/badges/python.svg" alt="Python" height="30"></a></td>
-    <td align="center" width="25%"><a href="https://www.java.com" title="java.com"><img src="assets/badges/java.svg" alt="Java" height="30"></a></td>
-    <td align="center" width="25%"><a href="https://en.wikipedia.org/wiki/Linear_algebra" title="Linear algebra"><img src="assets/badges/linear-algebra.svg" alt="Linear Algebra" height="30"></a></td>
-    <td align="center" width="25%"><a href="https://www.sublimetext.com" title="sublimetext.com"><img src="assets/badges/sublime-text-4.svg" alt="Sublime Text 4" height="30"></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="25%"><a href="https://archlinux.org" title="archlinux.org"><img src="assets/badges/arch-linux.svg" alt="Arch Linux" height="30"></a></td>
-    <td align="center" width="25%"><a href="https://opencode.ai" title="opencode.ai"><img src="assets/badges/opencode.svg" alt="OpenCode" height="30"></a></td>
-    <td align="center" width="25%"><a href="https://dlang.org" title="dlang.org"><img src="assets/badges/dlang.svg" alt="Dlang" height="30"></a></td>
-    <td align="center" width="25%"><a href="https://godotengine.org" title="godotengine.org"><img src="assets/badges/godot-engine.svg" alt="Godot Engine" height="30"></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="25%"><a href="https://pytorch.org" title="pytorch.org"><img src="assets/badges/pytorch.svg" alt="PyTorch" height="30"></a></td>
-  </tr>
-</table>
-
 <p align="center">
-  
+  <a href="https://www.python.org" title="python.org"><img src="assets/badges/python.svg" alt="Python" height="30"></a>
+  <a href="https://www.java.com" title="java.com"><img src="assets/badges/java.svg" alt="Java" height="30"></a>
+  <a href="https://en.wikipedia.org/wiki/Linear_algebra" title="Linear algebra"><img src="assets/badges/linear-algebra.svg" alt="Linear Algebra" height="30"></a>
+  <a href="https://www.sublimetext.com" title="sublimetext.com"><img src="assets/badges/sublime-text-4.svg" alt="Sublime Text 4" height="30"></a>
+  <a href="https://archlinux.org" title="archlinux.org"><img src="assets/badges/arch-linux.svg" alt="Arch Linux" height="30"></a>
+  <a href="https://opencode.ai" title="opencode.ai"><img src="assets/badges/opencode.svg" alt="OpenCode" height="30"></a>
+  <a href="https://dlang.org" title="dlang.org"><img src="assets/badges/dlang.svg" alt="Dlang" height="30"></a>
+  <a href="https://godotengine.org" title="godotengine.org"><img src="assets/badges/godot-engine.svg" alt="Godot Engine" height="30"></a>
+  <a href="https://pytorch.org" title="pytorch.org"><img src="assets/badges/pytorch.svg" alt="PyTorch" height="30"></a>
 </p>
 
 ## My Server
@@ -55,9 +45,9 @@
     <td width="65%"><img src="assets/server-demo.gif" alt="My server demo" width="100%"></td>
     <td width="35%" align="center">
       <img src="assets/badges/server.svg" alt="Server: X99 · 32GB · 28t" height="16"><br>
-      <a href="https://www.techpowerup.com/cpu-specs/xeon-e5-2680-v4.c4591" title="Xeon E5-2680 v4 @ TechPowerUp"><img src="assets/badges/cpu-xeon.svg" alt="CPU: Xeon E5-2680 v4"></a>
-      <a href="https://www.techpowerup.com/gpu-specs/tesla-p4.c2879" title="Tesla P4 @ TechPowerUp"><img src="assets/badges/gpu-tesla-p4.svg" alt="GPU: Tesla P4 8GB"></a>
-      <a href="https://www.techpowerup.com/gpu-specs/radeon-r7-250.c2459" title="Radeon R7 250 @ TechPowerUp"><img src="assets/badges/gpu-r7-250.svg" alt="GPU: Radeon R7 250"></a>
+      <a href="https://www.techpowerup.com/cpu-specs/xeon-e5-2680-v4.c4591" title="Xeon E5-2680 v4 @ TechPowerUp"><img src="assets/badges/cpu-xeon.svg" alt="CPU: Xeon E5-2680 v4"></a><br>
+      <a href="https://www.techpowerup.com/gpu-specs/tesla-p4.c2879" title="Tesla P4 @ TechPowerUp"><img src="assets/badges/gpu-tesla-p4.svg" alt="GPU: Tesla P4 8GB"></a><br>
+      <a href="https://www.techpowerup.com/gpu-specs/radeon-r7-250.c2459" title="Radeon R7 250 @ TechPowerUp"><img src="assets/badges/gpu-r7-250.svg" alt="GPU: Radeon R7 250"></a><br>
       <img src="assets/badges/mb-x99.svg" alt="MB: INTEL X99 V2.0" height="16"><br>
       <img src="assets/badges/ram.svg" alt="RAM: 4x8GB DDR4-2133 ECC" height="16"><br>
       <img src="assets/badges/dimm.svg" alt="DIMM: Micron 18ASF1G72PZ-2G1A2" height="16">
@@ -69,9 +59,9 @@
 
 <table>
   <tr>
-    <a href="https://www.techpowerup.com/gpu-specs/tesla-p4.c2879"><img src="assets/tesla-p4.jpg" alt="NVIDIA Tesla P4" height="270"></a>
-    <a href="https://www.techpowerup.com/cpu-specs/xeon-e5-2680-v4.c4591"><img src="assets/xeon-e5-2680-v4.jpg" alt="Intel Xeon E5-2680 v4" height="270"></a>
-    <a href="https://www.techpowerup.com/gpu-specs/radeon-r7-250.c2459"><img src="assets/radeon-r7-250.jpg" alt="AMD Radeon R7 250" height="270"></a>
+    <td align="center"><a href="https://www.techpowerup.com/gpu-specs/tesla-p4.c2879"><img src="assets/tesla-p4.jpg" alt="NVIDIA Tesla P4" height="270"></a></td>
+    <td align="center"><a href="https://www.techpowerup.com/cpu-specs/xeon-e5-2680-v4.c4591"><img src="assets/xeon-e5-2680-v4.jpg" alt="Intel Xeon E5-2680 v4" height="270"></a></td>
+    <td align="center"><a href="https://www.techpowerup.com/gpu-specs/radeon-r7-250.c2459"><img src="assets/radeon-r7-250.jpg" alt="AMD Radeon R7 250" height="270"></a></td>
   </tr>
 </table>
 
