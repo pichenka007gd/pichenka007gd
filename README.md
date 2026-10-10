@@ -8,21 +8,46 @@ I know the math behind LLMs — tensors, gradients, losses, optimization — all
 
 <table>
   <tr>
-    <td align="center" width="25%"><a href="https://www.python.org" title="python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a></td>
-    <td align="center" width="25%"><a href="https://www.java.com" title="java.com"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></a></td>
-    <td align="center" width="25%"><a href="https://en.wikipedia.org/wiki/Linear_algebra" title="Linear algebra"><img src="https://img.shields.io/badge/Linear_Algebra-6B7280?style=flat-square&logo=wikipedia&logoColor=white" alt="Linear Algebra"></a></td>
-    <td align="center" width="25%"><a href="https://www.sublimetext.com" title="sublimetext.com"><img src="https://img.shields.io/badge/Sublime%20Text%204-FF9800?style=flat-square&logo=sublimetext&logoColor=white" alt="Sublime Text 4"></a></td>
+    <td align="center" width="25%"><a href="https://www.python.org" title="python.org"><img src="assets/badges/python.svg" alt="Python"></a></td>
+    <td align="center" width="25%"><a href="https://www.java.com" title="java.com"><img src="assets/badges/java.svg" alt="Java"></a></td>
+    <td align="center" width="25%"><a href="https://en.wikipedia.org/wiki/Linear_algebra" title="Linear algebra"><img src="assets/badges/linear-algebra.svg" alt="Linear Algebra"></a></td>
+    <td align="center" width="25%"><a href="https://www.sublimetext.com" title="sublimetext.com"><img src="assets/badges/sublime-text-4.svg" alt="Sublime Text 4"></a></td>
   </tr>
   <tr>
-    <td align="center" width="25%"><a href="https://archlinux.org" title="archlinux.org"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux"></a></td>
-    <td align="center" width="25%"><a href="https://opencode.ai" title="opencode.ai"><img src="https://img.shields.io/badge/OpenCode-181717?style=flat-square&logo=opencode&logoColor=white" alt="OpenCode"></a></td>
-    <td align="center" width="25%"><a href="https://www.kimi.com" title="kimi.com"><img src="https://img.shields.io/badge/Kimi%20Code-8B5CF6?style=flat-square&logo=kimi&logoColor=white" alt="Kimi Code"></a></td>
-    <td align="center" width="25%"><a href="https://godotengine.org" title="godotengine.org"><img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot Engine"></a></td>
+    <td align="center" width="25%"><a href="https://archlinux.org" title="archlinux.org"><img src="assets/badges/arch-linux.svg" alt="Arch Linux"></a></td>
+    <td align="center" width="25%"><a href="https://opencode.ai" title="opencode.ai"><img src="assets/badges/opencode.svg" alt="OpenCode"></a></td>
+    <td align="center" width="25%"><a href="https://www.kimi.com" title="kimi.com"><img src="assets/badges/kimi-code.svg" alt="Kimi Code"></a></td>
+    <td align="center" width="25%"><a href="https://godotengine.org" title="godotengine.org"><img src="assets/badges/godot-engine.svg" alt="Godot Engine"></a></td>
   </tr>
 </table>
 
+## Hardware
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.techpowerup.com/gpu-specs/tesla-p4.c2879"><img src="assets/tesla-p4.jpg" alt="NVIDIA Tesla P4"></a><br>
+      <a href="https://www.techpowerup.com/gpu-specs/tesla-p4.c2879" title="Tesla P4 @ TechPowerUp"><img src="assets/badges/gpu-tesla-p4.svg" alt="GPU: Tesla P4 8GB"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.techpowerup.com/cpu-specs/xeon-e5-2680-v4.c4591"><img src="assets/xeon-e5-2680-v4.jpg" alt="Intel Xeon E5-2680 v4"></a><br>
+      <a href="https://www.techpowerup.com/cpu-specs/xeon-e5-2680-v4.c4591" title="Xeon E5-2680 v4 @ TechPowerUp"><img src="assets/badges/cpu-xeon.svg" alt="CPU: Xeon E5-2680 v4"></a>
+    </td>
+    <td align="center">
+      <a href="https://www.techpowerup.com/gpu-specs/radeon-r7-250.c2459"><img src="assets/radeon-r7-250.jpg" alt="AMD Radeon R7 250"></a><br>
+      <a href="https://www.techpowerup.com/gpu-specs/radeon-r7-250.c2459" title="Radeon R7 250 @ TechPowerUp"><img src="assets/badges/gpu-r7-250.svg" alt="GPU: Radeon R7 250"></a>
+    </td>
+  </tr>
+</table>
+
+## My Server
+
 <p align="center">
-  <a href="https://www.techpowerup.com/gpu-specs/tesla-p4.c2953" title="Tesla P4 @ TechPowerUp"><img src="https://img.shields.io/badge/GPU-Tesla%20P4%208GB-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="GPU: Tesla P4 8GB"></a>
+  <img src="assets/server-demo.gif" alt="My server demo">
+</p>
+
+<p align="center">
+  <img src="assets/badges/server.svg" alt="Server: X99 · 32GB · 28t">
 </p>
 
 <p align="center">
@@ -32,9 +57,9 @@ I know the math behind LLMs — tensors, gradients, losses, optimization — all
 ## Let's Connect!
 
 <p align="center">
-  <a href="mailto:pichenka007gd@mail.ru" title="pichenka007gd@mail.ru (never checked)"><img src="https://img.shields.io/badge/Email-never%20checked-005FF9?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
-  <a href="https://t.me/pichenka007gd" title="t.me/pichenka007gd (online all-times)"><img src="https://img.shields.io/badge/Telegram-pichenka007gd-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://boosty.to/pichenka008gd" title="boosty.to/pichenka008gd (+1)"><img src="https://img.shields.io/badge/Boosty-%2B1-F15F2C?style=flat-square&logo=boosty&logoColor=white" alt="Boosty"></a>
+  <a href="mailto:pichenka007gd@mail.ru" title="pichenka007gd@mail.ru (never checked)"><img src="assets/badges/email.svg" alt="Email"></a>
+  <a href="https://t.me/pichenka007gd" title="t.me/pichenka007gd (online all-times)"><img src="assets/badges/telegram.svg" alt="Telegram"></a>
+  <a href="https://boosty.to/pichenka008gd" title="boosty.to/pichenka008gd (+1)"><img src="assets/badges/boosty.svg" alt="Boosty"></a>
 </p>
 
 - DM for collabs, bakery-themed joke(🃏)s, or Arch/Pretty memes
@@ -43,7 +68,7 @@ I know the math behind LLMs — tensors, gradients, losses, optimization — all
 ## Now
 
 <p align="center">
-  <a href="https://postimg.cc/Th6j843F"><img src="https://i.postimg.cc/Y24dFcKr/image.png" alt="Now" width="60%"></a>
+  <a href="https://postimg.cc/Th6j843F"><img src="assets/now.png" alt="Now" width="60%"></a>
 </p>
 
 ## Old
@@ -52,7 +77,7 @@ I know the math behind LLMs — tensors, gradients, losses, optimization — all
 <summary><b>Old screenshot</b></summary>
 
 <p align="center">
-  <a href="https://postimg.cc/WtyVqy7V"><img src="https://i.postimg.cc/J4rzvVDs/2025-08-18-15-31.png" alt="Old" width="60%"></a>
+  <a href="https://postimg.cc/WtyVqy7V"><img src="assets/old.png" alt="Old" width="60%"></a>
 </p>
 
 </details>
