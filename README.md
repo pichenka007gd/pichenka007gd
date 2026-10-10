@@ -1,27 +1,68 @@
 <h1 align="center">Yo Bro 💖</h1>
 
-I'm a coder from the oven 🧁🔥, baking Python scripts and low-level magic while arguing with my Arch terminal (yes, it’s best OS btw ). I write code for hours - sometimes accidentally summoning waiter-fueled coding marathons. Vectors? Low-Level? UwU
+## Let's Connect!
 
-I know the math behind LLMs — tensors, gradients, losses, optimization — all the spicy internals. I dive deep into higher math too: series, limits, derivatives, all that calculus sorcery. I just don't train models yet (the GPU oven arrived: Tesla P4 8GB 🔥) (so i target it).
+<p align="center">
+  <a href="mailto:pichenka007gd@mail.ru" title="pichenka007gd@mail.ru (never checked)"><img src="assets/badges/email.svg" alt="Email"></a>
+  <a href="https://t.me/pichenka007gd" title="t.me/pichenka007gd (online all-times)"><img src="assets/badges/telegram.svg" alt="Telegram"></a>
+  <a href="https://boosty.to/pichenka008gd" title="boosty.to/pichenka008gd (+1)"><img src="assets/badges/boosty.svg" alt="Boosty"></a>
+</p>
+
+- DM for collabs, bakery-themed joke(🃏)s, or Arch/Pretty memes
+- Fly to the risky pie
+
+<table>
+  <tr>
+    <td width="60%">
+      <p>I'm a coder from the oven 🧁🔥, baking Python scripts and low-level magic while arguing with my Arch terminal (yes, it’s best OS btw ). I write code for hours - sometimes accidentally summoning waiter-fueled coding marathons. Vectors? Low-Level? UwU</p>
+      <p>I know the math for LLMs — tensors, gradients, losses, optimization — all the spicy internals. I dive deep into higher math too: series, limits, derivatives, all that calculus sorcery. I just don't train models yet (the GPU oven arrived: Tesla P4 8GB 🔥) (so i target it).</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=pichenka007gd" alt="GitHub streak" width="100%"><br>
+      <img src="https://komarev.com/ghpvc/?username=pichenka007gd" alt="Profile views" height="16">
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
 <table>
   <tr>
-    <td align="center" width="25%"><a href="https://www.python.org" title="python.org"><img src="assets/badges/python.svg" alt="Python"></a></td>
-    <td align="center" width="25%"><a href="https://www.java.com" title="java.com"><img src="assets/badges/java.svg" alt="Java"></a></td>
-    <td align="center" width="25%"><a href="https://en.wikipedia.org/wiki/Linear_algebra" title="Linear algebra"><img src="assets/badges/linear-algebra.svg" alt="Linear Algebra"></a></td>
-    <td align="center" width="25%"><a href="https://www.sublimetext.com" title="sublimetext.com"><img src="assets/badges/sublime-text-4.svg" alt="Sublime Text 4"></a></td>
+    <td align="center" width="25%"><a href="https://www.python.org" title="python.org"><img src="assets/badges/python.svg" alt="Python" height="30"></a></td>
+    <td align="center" width="25%"><a href="https://www.java.com" title="java.com"><img src="assets/badges/java.svg" alt="Java" height="30"></a></td>
+    <td align="center" width="25%"><a href="https://en.wikipedia.org/wiki/Linear_algebra" title="Linear algebra"><img src="assets/badges/linear-algebra.svg" alt="Linear Algebra" height="30"></a></td>
+    <td align="center" width="25%"><a href="https://www.sublimetext.com" title="sublimetext.com"><img src="assets/badges/sublime-text-4.svg" alt="Sublime Text 4" height="30"></a></td>
   </tr>
   <tr>
-    <td align="center" width="25%"><a href="https://archlinux.org" title="archlinux.org"><img src="assets/badges/arch-linux.svg" alt="Arch Linux"></a></td>
-    <td align="center" width="25%"><a href="https://opencode.ai" title="opencode.ai"><img src="assets/badges/opencode.svg" alt="OpenCode"></a></td>
-    <td align="center" width="25%"><a href="https://www.kimi.com" title="kimi.com"><img src="assets/badges/kimi-code.svg" alt="Kimi Code"></a></td>
-    <td align="center" width="25%"><a href="https://godotengine.org" title="godotengine.org"><img src="assets/badges/godot-engine.svg" alt="Godot Engine"></a></td>
+    <td align="center" width="25%"><a href="https://archlinux.org" title="archlinux.org"><img src="assets/badges/arch-linux.svg" alt="Arch Linux" height="30"></a></td>
+    <td align="center" width="25%"><a href="https://opencode.ai" title="opencode.ai"><img src="assets/badges/opencode.svg" alt="OpenCode" height="30"></a></td>
+    <td align="center" width="25%"><a href="https://dlang.org" title="dlang.org"><img src="assets/badges/dlang.svg" alt="Dlang" height="30"></a></td>
+    <td align="center" width="25%"><a href="https://godotengine.org" title="godotengine.org"><img src="assets/badges/godot-engine.svg" alt="Godot Engine" height="30"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><a href="https://pytorch.org" title="pytorch.org"><img src="assets/badges/pytorch.svg" alt="PyTorch" height="30"></a></td>
   </tr>
 </table>
 
-## Hardware
+<p align="center">
+  <a href="https://www.codewars.com/users/pichenka007gd"><img src="https://www.codewars.com/users/pichenka007gd/badges/large" alt="Codewars" width="25%"></a>
+</p>
+
+## My Server
+
+<table>
+  <tr>
+    <td width="65%"><img src="assets/server-demo.gif" alt="My server demo" width="100%"></td>
+    <td width="35%" align="center">
+      <img src="assets/badges/server.svg" alt="Server: X99 · 32GB · 28t" height="16"><br>
+      <img src="assets/badges/mb-x99.svg" alt="MB: INTEL X99 V2.0" height="16"><br>
+      <img src="assets/badges/ram.svg" alt="RAM: 4x8GB DDR4-2133 ECC" height="16"><br>
+      <img src="assets/badges/dimm.svg" alt="DIMM: Micron 18ASF1G72PZ-2G1A2" height="16">
+    </td>
+  </tr>
+</table>
+
+### Hardware
 
 <table>
   <tr>
@@ -40,31 +81,6 @@ I know the math behind LLMs — tensors, gradients, losses, optimization — all
   </tr>
 </table>
 
-## My Server
-
-<p align="center">
-  <img src="assets/server-demo.gif" alt="My server demo">
-</p>
-
-<p align="center">
-  <img src="assets/badges/server.svg" alt="Server: X99 · 32GB · 28t">
-</p>
-
-<p align="center">
-  <a href="https://www.codewars.com/users/pichenka007gd"><img src="https://www.codewars.com/users/pichenka007gd/badges/large" alt="Codewars" width="40%"></a>
-</p>
-
-## Let's Connect!
-
-<p align="center">
-  <a href="mailto:pichenka007gd@mail.ru" title="pichenka007gd@mail.ru (never checked)"><img src="assets/badges/email.svg" alt="Email"></a>
-  <a href="https://t.me/pichenka007gd" title="t.me/pichenka007gd (online all-times)"><img src="assets/badges/telegram.svg" alt="Telegram"></a>
-  <a href="https://boosty.to/pichenka008gd" title="boosty.to/pichenka008gd (+1)"><img src="assets/badges/boosty.svg" alt="Boosty"></a>
-</p>
-
-- DM for collabs, bakery-themed joke(🃏)s, or Arch/Pretty memes
-- Fly to the risky pie
-
 ## Now
 
 <p align="center">
@@ -73,21 +89,6 @@ I know the math behind LLMs — tensors, gradients, losses, optimization — all
 
 ## Old
 
-<details>
-<summary><b>Old screenshot</b></summary>
-
 <p align="center">
   <a href="https://postimg.cc/WtyVqy7V"><img src="assets/old.png" alt="Old" width="60%"></a>
-</p>
-
-</details>
-
-## Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pichenka007gd" alt="GitHub streak">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pichenka007gd" alt="Profile views">
 </p>
